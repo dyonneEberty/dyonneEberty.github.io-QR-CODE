@@ -11,9 +11,9 @@ Gere um QR Code utilizando a URL de um site ou palavra. <br>
 <br>
 
 ## Screenshot:
-![img](https://github.com/dyonneEberty/QR-CODE/blob/main/img/qr-code.png?raw=true)
+![img](https://github.com/dyonneEberty/dyonneEberty.github.io-QR-CODE/blob/main/img/qr-code.png?raw=true)
 
-![img](https://github.com/dyonneEberty/QR-CODE/blob/main/img/qr-code2.png?raw=true)
+![img](https://github.com/dyonneEberty/dyonneEberty.github.io-QR-CODE/blob/main/img/qr-code2.png?raw=true)
 
 
 ## Tecnologias ultilizadas:
