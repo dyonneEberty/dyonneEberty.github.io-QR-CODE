@@ -5,7 +5,7 @@ Gere um QR Code utilizando a URL de um site ou palavra. <br>
 • Para gerar um novo QR Code, basta limpar o campo de texto e adicionar uma nova palavra ou URL.
 
 ## Conceitos utilizados:
-• Manipulação DOM: Criação de classe CSS e substituição da imagem do QR Code dinamicamente com JavaScript, além de eventos de clique, keydown e keyup adicionados para melhor interação com o usuário.
+• Manipulação DOM: Criação de classe CSS e substituição da imagem do QR Code dinamicamente com JavaScript, além de eventos de click, keydown e keyup adicionados para melhorar a experiência com o usuário.
 <br>
 • Manipulação de API para gerar o QR Code 
 <br>
